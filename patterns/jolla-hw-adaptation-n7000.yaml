@@ -11,6 +11,7 @@ Requires:
 - droid-hal-n7000
 - droid-hal-n7000-img-boot
 - droid-hal-n7000-kernel-modules
+- droid-hal-n7000-detritus
 - droid-config-n7000-sailfish
 - droid-config-n7000-pulseaudio-settings
 - droid-config-n7000-policy-settings
